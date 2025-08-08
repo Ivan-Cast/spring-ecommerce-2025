@@ -10,6 +10,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @NoArgsConstructor
 public class DetalleOrden {
+
     private Integer id;
     private String nombre;
     private double cantidad;
