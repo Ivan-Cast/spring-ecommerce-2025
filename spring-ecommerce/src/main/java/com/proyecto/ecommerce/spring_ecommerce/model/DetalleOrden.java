@@ -17,7 +17,6 @@ public class DetalleOrden {
     private double precio;
     private double total;
 
-
     @Override
     public String toString() {
         return "DetalleOrden{" +
